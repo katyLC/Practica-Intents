@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab_Intents</string>
+    <string name="custom_call">Llamar</string>
+    <string name="custom_Location">Ubicar</string>
+    <string name="custom_web"> Navegar</string>
+    <string name="choose_title">Elegir Aplicacion</string>
+</resources>
